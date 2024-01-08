@@ -15,7 +15,7 @@
 
 /* All Common Css Ends */
 
-.Banner-img {
+.Banner-one {
     width: 1320px;
     margin: 0 auto;
     position: relative;
@@ -28,8 +28,8 @@
     right: 530px;
     bottom: 383px;
     text-align: center;
-    font-size: 22px;
-    color: greenyellow;
+    font-size: 25px;
+    color: gold;
 }
 
 .title-two {
@@ -40,7 +40,7 @@
     left: 344px;
     text-align: center;
     font-size: 35px;
-    color: rgb(80, 105, 228);
+    color: #F00;
 }
 
 /* banner 2 css starts */
@@ -108,7 +108,7 @@
     color: #fff;
     text-align: left;
     padding: 0px;
-    
+
 }
 
 .vector-text {
@@ -132,15 +132,73 @@
     bottom: 68px;
     align-items: center;
 }
-.join-button{
+
+.join-button {
     position: absolute;
     color: #fff;
     top: 434px;
     left: 158px;
-    right: 1080px;
+    right: 1070px;
     bottom: 142px;
-    font-size: 22px;
+    font-size: 18px;
     text-align: center;
+}
+
+/* Banner 3 css ends */
+
+
+/* Banner 4 css starts */
+
+.banner-four {
+    position: absolute;
+    margin: 0 auto;
+    background-color: pink;
+    width: 1320px;
+    height: 482px;
+    top: 2416px;
+    left: 140px;
+    right: 140px;
+
+}
+
+section {
+    position: absolute;
+    top: 100px;
+    right: 385px;
+    left: 385px;
+    bottom: 214px;
+    color: #070211;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+}
+
+span {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.JOIN-NOW {
+    position: absolute;
+    top: 316px;
+    right: 576px;
+    left: 576px;
+    bottom: 110px;
+  text-align: center;
+}
+.BUTTON-1{
+    padding: 16px 32px;
+    color: #fff;
+    background-color: #F00;
+    font-size: 16px;
+    font-weight: 700;
+    border: none;
+    border-radius: 10px;
 }
 
 
@@ -150,4 +208,13 @@
 
 
 
-/* Banner 3 css ends */
+
+
+
+
+
+
+
+
+
+/* Banner 4 css ends */
