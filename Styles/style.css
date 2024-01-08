@@ -540,14 +540,16 @@ span {
     bottom: 95px;
     border-radius: 50px;
     background: #FFF;
-    
+
 }
-input[type="email"]{
+
+input[type="email"] {
     font-size: 30px;
     border: none;
     text-align: center;
 }
-.subscribe-button{
+
+.subscribe-button {
     position: absolute;
     top: 482px;
     left: 830px;
@@ -557,16 +559,147 @@ input[type="email"]{
     border-top-right-radius: 50px;
     background: #f32323;
 }
-input[type="button"]{
+
+input[type="button"] {
     font-size: 30px;
     border: none;
-    background-color:#f32323;
+    background-color: #f32323;
     color: #FFF4F4;
 
 }
 
 /* Subscribe-Parts  CSS Ends */
-
-
-
 /*  portfolio css Ends*/
+
+/* Footer-Parts CSS Starts  */
+.footer {
+    position: absolute;
+    width: 1600px;
+    height: 609px;
+    top: 6700px;
+    margin: 0 auto;
+    background-color: #070211;
+}
+
+.footer-text {
+    position: absolute;
+    top: 120px;
+    left: 140px;
+    right: 1085px;
+    bottom: 409px;
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+}
+
+.logo-one {
+    position: absolute;
+    top: 128px;
+    left: 1074px;
+    right: 502px;
+    bottom: 457px;
+}
+
+.logo-two {
+    position: absolute;
+    top: 168px;
+    left: 1074px;
+    right: 502px;
+    bottom: 417px;
+}
+
+.contact {
+    position: absolute;
+    top: 120px;
+    left: 1114px;
+    right: 291px;
+    bottom: 449px;
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+}
+
+.website {
+    position: absolute;
+    top: 160px;
+    left: 1114px;
+    right: 275px;
+    bottom: 409px;
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+}
+
+.facebook {
+    position: absolute;
+    top: 298px;
+    left: 640px;
+    right: 896px;
+    bottom: 247px;
+}
+
+.Instagram {
+    position: absolute;
+    top: 298px;
+    left: 728px;
+    right: 808px;
+    bottom: 247px;
+}
+
+.twitter {
+    position: absolute;
+    top: 298px;
+    left: 816px;
+    right: 720px;
+    bottom: 247px;
+}
+
+.linkedin {
+    position: absolute;
+    top: 298px;
+    left: 904px;
+    right: 832px;
+    bottom: 247px;
+}
+
+.footer-text-two {
+    position: absolute;
+    top: 460px;
+    left: 140px;
+    right: 1165px;
+    bottom: 120px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 40px;
+}
+.footer-text-three{
+    position: absolute;
+    top: 460px;
+    left: 1315px;
+    right: 140px;
+    bottom: 120px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Footer-Parts CSS Ends  */
