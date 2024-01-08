@@ -1,0 +1,145 @@
+/* All Common Css Starts */
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    font-family: 'Merriweather', serif;
+}
+
+.Container {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+
+/* All Common Css Ends */
+
+.Banner-img {
+    width: 1320px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.title-one {
+    position: absolute;
+    top: 177px;
+    left: 530px;
+    right: 530px;
+    bottom: 383px;
+    text-align: center;
+    font-size: 22px;
+    color: greenyellow;
+}
+
+.title-two {
+    position: absolute;
+    top: 233px;
+    right: 344px;
+    bottom: 177px;
+    left: 344px;
+    text-align: center;
+    font-size: 35px;
+    color: rgb(80, 105, 228);
+}
+
+/* banner 2 css starts */
+
+
+.title-three {
+    position: absolute;
+    /* top: 70px; */
+    left: 608px;
+    right: 608px;
+    top: 770px;
+    color: red;
+    text-align: center;
+    font-size: 40px;
+
+}
+
+.banner-text {
+    position: absolute;
+    left: 601px;
+    right: 601px;
+    top: 925px;
+    text-align: center;
+    color: red;
+    font-size: 20px;
+}
+
+.title-four {
+    position: absolute;
+    left: 595px;
+    right: 595px;
+    top: 970px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.new-year-img {
+    position: absolute;
+    left: 398px;
+    right: 398px;
+    top: 1076px;
+    text-align: center;
+}
+
+/* banner 2 css ends */
+
+
+/* Banner 3 css starts */
+
+.vector-img {
+    position: absolute;
+    text-align: center;
+    left: 140px;
+    right: 140px;
+    top: 1696px;
+}
+
+.title-five {
+    position: absolute;
+    top: 126px;
+    left: 278px;
+    right: 702px;
+    bottom: 320px;
+    font-size: 35px;
+    color: #fff;
+    text-align: left;
+    padding: 0px;
+    
+}
+
+.vector-text {
+    position: absolute;
+    top: 326px;
+    left: 278px;
+    right: 650px;
+    bottom: 218px;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.80);
+    font-size: 18px;
+    margin-top: 15px;
+
+}
+
+.group-seventy {
+    position: absolute;
+    top: 70px;
+    left: 863px;
+    right: 138px;
+    bottom: 68px;
+    align-items: center;
+}
+.join-button{
+    position: absolute;
+    color: #fff;
+    top: 434px;
+    left: 158px;
+    right: 1060px;
+    bottom: 142px;
+    font-size: 20px;
+}
+
+/* Banner 3 css ends */
