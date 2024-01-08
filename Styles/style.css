@@ -300,7 +300,7 @@ span {
 /* Main Bonuses Part-1 Css Ends */
 
 
- /*  Main Bonuses Part-2 Css Starts  */
+/*  Main Bonuses Part-2 Css Starts  */
 .Bonuses-part-two {
     position: absolute;
     width: 1600px;
@@ -351,28 +351,134 @@ span {
     line-height: 32px;
 }
 
-.Rectangle-two{
+.Rectangle-two {
     position: absolute;
     top: 700px;
     left: 140px;
     right: 140px;
 }
-.group-seventy-five{
+
+.group-seventy-five {
     position: absolute;
     top: 260px;
     left: 140px;
     right: 750px;
 }
-.Rectangle-one{
+
+.Rectangle-one {
     position: absolute;
     top: 268px;
     left: 1031px;
     right: 140px;
 }
-.group-forty-four{
+
+.group-forty-four {
     position: absolute;
     top: 330px;
     left: 880px;
     right: 425px;
 }
+
 /* Main Bonuses Part-2 Css Ends  */
+
+/*  portfolio css Starts*/
+.portfolio {
+    position: absolute;
+    width: 1600px;
+    top: 4700px;
+
+}
+
+.Portfolio-one {
+    position: absolute;
+    top: 0px;
+    left: 140px;
+    right: 1260px;
+    color: #F00;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.Portfolio-two {
+    position: absolute;
+    top: 45px;
+    left: 140px;
+    right: 885px;
+    color: #070211;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.portfolio-text {
+    position: absolute;
+    top: 130px;
+    left: 140px;
+    right: 556px;
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    line-height: 32px;
+}
+
+/* Images parts ccs Starts */
+
+.Row-One{
+    position: absolute;
+    width: 1600px;
+    height: 450px;
+    top: 4970px;
+    left: 140px;
+    background-color: #FFFFFF;
+}
+
+.first{
+    position: absolute;
+    top: 0px;
+    left: 140px;
+    right: 1036px;
+}
+.second{
+    position: absolute;
+    top: 0px;
+    left:588px ;
+    right:588px ;
+}
+.third{
+    position: absolute;
+    top: 0px;
+    left:1036px ;
+    right:140px ;
+}
+
+.Row-Two{
+    position: absolute;
+    width: 1600px;
+    height: 450px;
+    top: 5445px;
+    background-color: #FFFFFF;
+}
+
+.fourth{
+    position: absolute;
+    top: 0px;
+    left: 126px;
+    right: 1036px;
+}
+.fifth{
+    position: absolute;
+    top: 0px;
+    left:575px ;
+    right:575px ;
+}
+.sixth{
+    position: absolute;
+    top: 0px;
+    left: 1024px;
+    right: 127px;
+}
+
+/* Images parts ccs Ends */
+
+
+
+
+/*  portfolio css Ends*/
